@@ -13,5 +13,9 @@
       { "<leader>3", function() require("harpoon"):list():select(3) end, desc = "Harpune zu Datei 3", },
       { "<leader>4", function() require("harpoon"):list():select(4) end, desc = "Harpune zu Datei 4", },
       { "<leader>5", function() require("harpoon"):list():select(5) end, desc = "Harpune zu Datei 5", },
+      { "<leader>6", function() require("harpoon"):list():select(6) end, desc = "Harpune zu Datei 6", },
+      { "<leader>7", function() require("harpoon"):list():select(7) end, desc = "Harpune zu Datei 7", },
+      { "<leader>8", function() require("harpoon"):list():select(8) end, desc = "Harpune zu Datei 8", },
+      { "<leader>9", function() require("harpoon"):list():select(9) end, desc = "Harpune zu Datei 9", },
     },
   }
